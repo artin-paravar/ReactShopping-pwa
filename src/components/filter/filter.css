@@ -1,0 +1,6 @@
+div > div > p {
+  cursor: pointer;
+}
+.div-active > .active {
+  border-bottom: 2px solid rgb(21, 181, 221);
+}
